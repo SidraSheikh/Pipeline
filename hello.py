@@ -1,1 +1,1 @@
-fetrtryr
+print("hello")
